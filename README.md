@@ -3,7 +3,9 @@
 Tag Line
 
 **Bold**
+
 aand *Italics*
+
 ***and both lol***
 
 ##Team Member Name
