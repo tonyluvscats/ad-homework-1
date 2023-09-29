@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# whatever
-=======
 # Team Name
 
 Tag Line
@@ -25,6 +22,5 @@ aand *Italics*
 [Secret link](www.google.com)
 
 ![Image of a Fender Telecaster](images/tele.jpg)
->>>>>>> Stashed changes
 
 This repo is for practicing the first homework assignment
